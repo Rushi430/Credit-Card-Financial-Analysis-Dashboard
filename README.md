@@ -28,7 +28,6 @@ The dashboard focuses on the following primary KPIs:(Customer Report)
 
 -  Revenue increased by 28.8%, 
 -  Total Transaction Amt & Count increased by 35.04% & 3.39%
--  ustomer count increased by xx%
   
 **Overview YTD**:
 -  Overall revenue is 57M
